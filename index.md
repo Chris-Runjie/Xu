@@ -13,7 +13,8 @@
 - 南京航空航天大学；金融学学士；GPA80+/100；Top 10/160。
 
 - 辅修课程；人工智能
-   [（From Coursera.org）](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
+  
+  [（From Coursera.org）](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
 - 剑桥大学2019年暑校：人工智能与深度学习。
 
@@ -22,22 +23,28 @@
 ## 学术研究
 
 - 论文：Complex Network Construction of Internet Finance Risk, Physica A (一作, SCI，JCR一区).
-   [doi.org/10.1016/j.physa.2019.122930](https://www.sciencedirect.com/science/article/pii/S0378437119316619))
+  
+  [doi.org/10.1016/j.physa.2019.122930](https://www.sciencedirect.com/science/article/pii/S0378437119316619))
 
 - 论文: 互联网金融空间聚集分析及系统性风险防范——基于t-SNE机器学习模型 (导师一作, 财经论丛，CSSCI).
-  - [doi.10.13762/j.cnki.cjlc.2019.08.005](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=CJLC201908007&v=MDc0NDk5ak1wNDlGWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVZ2RnlIbVU3L0JKaWZIYmJHNEg=))
+ 
+  [doi.10.13762/j.cnki.cjlc.2019.08.005](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=CJLC201908007&v=MDc0NDk5ak1wNDlGWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVZ2RnlIbVU3L0JKaWZIYmJHNEg=))
 
 - 会议论文：Real-time Recognition of Smartphone User Behavior Based on Prophet Algorithms, 第四届亚洲环境智能与工效学国际会议 (导师一作).
-   [arXiv：1909.08997](https://arxiv.org/abs/1909.08997))
+ 
+  [arXiv：1909.08997](https://arxiv.org/abs/1909.08997))
 
 - 论文：An active smartphone authentication method based on daily cyclical activity, Submission (一作).
-   [arXiv:1909.00045](https://arxiv.org/abs/1909.00045))
+  
+  [arXiv:1909.00045](https://arxiv.org/abs/1909.00045))
 
 - 论文: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission (共同一作, 通讯作者).
-   [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
+  
+  [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
 
 - 会议论文：Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, 第12届全球商业、经济、政治、社会和文化研究年度国际会议 (导师一作).
-   [arXiv:1909.03808](https://arxiv.org/abs/1909.03808))
+ 
+  [arXiv:1909.03808](https://arxiv.org/abs/1909.03808))
 
 - 会议论文：Risks Brought By Competition: Investment of Internet Enterprises，2020亚太信息系统会议PACIS (一作，在投).
 
