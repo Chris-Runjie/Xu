@@ -4,6 +4,8 @@
 
 +86-18792013677, lilipota123@gmail.com 
 
+ [If you need an English version, please click here](https://chris-runjie.github.io)
+
 ![Image of Runjie](https://Chris-Runjie.github.io/Runjie1.jpg)
 
 ### 教育经历
@@ -11,7 +13,7 @@
 (1) 南京航空航天大学；金融学学士；GPA80+/100；Top 10/160。
 
 * 主修课程:高等数学、微积分、线性代数、金融市场、证券投资、会计学、中央银行、商业银行……
-* 辅修课程:  [人工智能](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
+* 辅修课程:  人工智能 ([https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA])(https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
 (2) 剑桥大学2019年暑校:人工智能与深度学习。
 
