@@ -48,6 +48,8 @@
 
 - 会议论文：Risks Brought By Competition: Investment of Internet Enterprises，2020亚太信息系统会议PACIS (一作，在投).
 
+- 博客短文:  [香港中文大学金融监管和经济发展中心](https://www.legalanalytics.law.cuhk.edu.hk/post/2019/10/16/complex-network-construction-of-internet-finance-risk)
+
 ## 荣誉证书
 
 - 中国电子商务大数据分析师 (CBEC04S0010056B)
