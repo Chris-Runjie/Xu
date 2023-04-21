@@ -6,11 +6,11 @@ lilipota123@gmail.com
 
  [If you need an English version, please click here](https://chris-runjie.github.io)
 
-![Image of Runjie](https://Chris-Runjie.github.io/Runjie1.jpg)
+![Image of Runjie]([https://Chris-Runjie.github.io/Runjie1.jpg](https://github.com/Chris-Runjie/Chris-Runjie.github.io/blob/master/Runjie2.png))
 
 ## 教育经历
 
-- 南京航空航天大学；金融学学士；GPA80+/100；Top 10/160。
+- 南京航空航天大学；金融学；GPA80+/100；Top 10/160。
 
 - 辅修课程；人工智能
   
