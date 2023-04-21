@@ -6,7 +6,7 @@ lilipota123@gmail.com
 
  [If you need an English version, please click here](https://chris-runjie.github.io)
 
-![Image of Runjie](https://Chris-Runjie.github.io/runjie.JPG)
+![Image of Runjie](https://Chris-Runjie.github.io/runjie1.jpg)
 
 ## 教育经历
 
