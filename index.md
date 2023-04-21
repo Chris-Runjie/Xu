@@ -1,4 +1,4 @@
-## 徐润捷 (Chris)
+## Runjie Xu
 
 中国江苏南京，210016 
 
@@ -55,15 +55,15 @@ lilipota123@gmail.com
 
 - 博客短文: [Machine Lawyering 香港中文大学金融监管和经济发展中心](https://www.legalanalytics.law.cuhk.edu.hk/post/2019/10/16/complex-network-construction-of-internet-finance-risk)
 
-## 荣誉证书
+## 证书
 
 - 中国电子商务大数据分析师 (CBEC04S0010056B)
 
-- 中国软件著作权 (2019SR0891593)
+- 软件著作权 (2019SR0891593)
 
-- 证券投资分析师 ———— 中国高新技术专业人才培养项目 (NPAP7341903501835)
+- 证券投资分析师 ———— 中国高新技术专业人才 (NPAP7341903501835)
 
-- 财务计划师 ———— 中国高新技术专业人才培养项目 (NPAP7341911303823)
+- 财务计划师 ———— 中国高新技术专业人才 (NPAP7341911303823)
 
 
 ## 活动
