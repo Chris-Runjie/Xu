@@ -1,8 +1,8 @@
 ## 徐润捷 (Chris)
 
-20岁，中国江苏南京，210016 
+中国江苏南京，210016 
 
-+86-18792013677, lilipota123@gmail.com 
+lilipota123@gmail.com 
 
  [If you need an English version, please click here](https://chris-runjie.github.io)
 
@@ -16,13 +16,15 @@
   
   [（From Coursera.org）](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
-- 剑桥大学2019年暑校：人工智能与深度学习。
+- 剑桥大学2019年：人工智能与深度学习。
 
 - 研究助理：国家社科基金 (17BGL055)。
+- 研发工程师：北京大学博亚区块链研究所
 
 ## 学术研究
 
-- 论文：Complex Network Construction of Internet Finance Risk, Physica A (一作, SCI，JCR一区).
+- 论文：互联网金融风险的复杂网络建设
+- Complex Network Construction of Internet Finance Risk, Physica A (一作, SCI，JCR一区).
   
   [doi.org/10.1016/j.physa.2019.122930](https://www.sciencedirect.com/science/article/pii/S0378437119316619))
 
@@ -30,15 +32,18 @@
  
   [doi.10.13762/j.cnki.cjlc.2019.08.005](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=CJLC201908007&v=MDc0NDk5ak1wNDlGWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVZ2RnlIbVU3L0JKaWZIYmJHNEg=))
 
-- 会议论文：Real-time Recognition of Smartphone User Behavior Based on Prophet Algorithms, 第四届亚洲环境智能与工效学国际会议 (导师一作).
+- 会议论文：基于先知算法的智能手机用户行为的实时识别
+- Real-time Recognition of Smartphone User Behavior Based on Prophet Algorithms, 第四届亚洲环境智能与工效学国际会议 (导师一作).
  
   [arXiv：1909.08997](https://arxiv.org/abs/1909.08997))
 
-- 论文：An active smartphone authentication method based on daily cyclical activity, Submission (一作).
+- 论文：基于日常周期活动的主动智能手机身份验证方法
+- An active smartphone authentication method based on daily cyclical activity, Submission (一作).
   
   [arXiv:1909.00045](https://arxiv.org/abs/1909.00045))
 
-- 论文: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission (共同一作, 通讯作者).
+- 论文: 互联网金融的风险波动特征：将行业特征与生态价值相结合
+- Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission (共同一作, 通讯作者).
   
   [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
 
@@ -60,7 +65,6 @@
 
 - 财务计划师 ———— 中国高新技术专业人才培养项目 (NPAP7341911303823)
 
-- 知乎校园大使
 
 ## 活动
 
@@ -70,9 +74,7 @@
 
 - 第12届全球研究:商业、经济、政治、社会和文化方面的年度国际会议，2019，希腊。
 
-- 中国电子商务创新创业比赛(全国二等奖、省级一等奖、优秀组织奖、最佳演说奖)。
-
-- 中国儿童阅读大会优秀志愿者。
+- 中国电子商务创新创业(全国二等奖、省级一等奖、优秀组织奖、最佳演说奖)。
 
 - IBM & 中国工商银行2019年金融科技夏令营优秀营员。
 
